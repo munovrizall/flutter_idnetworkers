@@ -1,6 +1,6 @@
 # Flutter Bootcamp in IDNetworkers(IDN.ID)
 Just completed an amazing 4-day Flutter Bootcamp! This repository is all my project that i've made in bootcamp, 
-![Bootcamp project](https://imgur.com/kCO9lMa)
+![Bootcamp project](https://imgur.com/kCO9lMa.png)
 
 ### Here are some highlights of my learning journey:
 Dart Language: I sharpened my skills in Dart, the programming language behind Flutter.  
